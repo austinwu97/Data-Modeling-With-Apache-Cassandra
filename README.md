@@ -11,7 +11,7 @@ We have provided you with a project template that takes care of all the imports 
 
 ## How to Use
 
-Launch **Project_1B_ Project_Template.ipynb** to launch the sample queries 
+Launch **Project_1B_ Project_Template.ipynb** to run the sample queries 
 
 
 ## Description of Files
